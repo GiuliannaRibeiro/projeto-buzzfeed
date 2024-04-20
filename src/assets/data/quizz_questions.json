@@ -1,9 +1,9 @@
 {
-  "title": "Você seria um heroi ou vilão ?",
+  "title": "Você seria um heroi ou vilão?",
   "questions": [
     {
       "id": 1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Qual super poder você escolheria?",
       "options": [
         {
           "id": 1,
@@ -34,7 +34,7 @@
     },
     {
       "id": 2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Quem você salvaria primeiro?",
       "options": [
         {
           "id": 1,
@@ -55,7 +55,7 @@
     },
     {
       "id": 3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual a sua maior preocupação ao enfretar outro super ser?",
       "options": [
         {
           "id": 1,
@@ -81,7 +81,7 @@
     },
     {
       "id": 4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Qual o seu maior foco?",
       "options": [
         {
           "id": 1,
@@ -97,7 +97,7 @@
     },
     {
       "id": 5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Qual o seu apelido de super ser?",
       "options": [
         {
           "id": 1,
